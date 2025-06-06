@@ -1,4 +1,6 @@
-# natas
+# NATAS OVERTHEWIRE
+# FLORES FERNANDEZ JONATHAN AUGUSTO INF2310A SEM 1-2025
+
 Ejercicios de overthewire Natas
 # Contraseñas de Natas (Nivel 0 al 12)
 
