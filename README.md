@@ -1,4 +1,4 @@
-# 2310Mnatas
+# natas
 Ejercicios de overthewire Natas
 
 
